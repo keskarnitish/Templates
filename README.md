@@ -1,2 +1,2 @@
 # Templates
-Templates for Nonlinear Optimization
+Templates for (Smooth) Nonlinear Optimization
